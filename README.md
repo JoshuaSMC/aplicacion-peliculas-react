@@ -36,7 +36,7 @@ El proyecto fue creado para seguir practicando **consumo de APIs**, manejo de **
 ---
 
 ## 📁 Estructura del proyecto
-
+```
 src/
 ├── components/
 │ ├── MovieCard.jsx
@@ -52,8 +52,7 @@ src/
 │
 ├── App.jsx
 └── main.jsx
-
-
+```
 ---
 
 ## 🎨 Diseño visual
@@ -114,7 +113,7 @@ Luego abrí http://localhost:5173 en tu navegador 🚀
 
 
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 
 Desarrollado por Joshua SMC
 
