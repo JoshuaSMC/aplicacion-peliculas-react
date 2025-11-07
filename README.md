@@ -85,7 +85,7 @@ Durante el desarrollo de esta app reforcé habilidades en:
 
 Si querés probar el proyecto en tu entorno local:
 
-``bash
+```bash
 # Clonar el repositorio
 git clone https://github.com/JoshuaSMC/aplicacion-peliculas-react.git
 
@@ -100,18 +100,19 @@ npm run dev
 
 Luego abrí http://localhost:5173
  en tu navegador 🚀
+```
 
 ---
 
-##🌱 Futuras mejoras
+## 🌱 Futuras mejoras
 
--🎬 Sección de películas favoritas (guardadas en localStorage).
--⭐ Sistema de puntuación de usuario.
--🎭 Filtro por género y año de estreno.
--🌙 Modo oscuro/claro.
--📱 Optimización de carga para dispositivos móviles.
+- 🎬 Sección de películas favoritas (guardadas en localStorage).
+- ⭐ Sistema de puntuación de usuario.
+- 🎭 Filtro por género y año de estreno.
+- 🌙 Modo oscuro/claro.
+- 📱 Optimización de carga para dispositivos móviles.
 
----
+
 
 👨‍💻 Autor
 
