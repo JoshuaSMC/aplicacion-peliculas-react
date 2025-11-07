@@ -7,7 +7,7 @@ El proyecto fue creado para seguir practicando **consumo de APIs**, manejo de **
 
 ## 🚀 Demo
 
-🔗 **Deploy:** [Ver en Netlify](https://aplicacion-peliculas-react.netlify.app/)  
+🔗 **Deploy:** [Ver en Netlify](https://app-de-peliculas-react.netlify.app/)  
 🔗 **Repositorio:** [GitHub](https://github.com/JoshuaSMC/aplicacion-peliculas-react)
 
 ---
@@ -56,6 +56,7 @@ src/
 ---
 
 ## 🎨 Diseño visual
+- Me inspire en Star Wars para crear todo el diseño
 
 **Paleta de colores**
 - 🎞️ **Azul profundo:** `#0f172a`  
