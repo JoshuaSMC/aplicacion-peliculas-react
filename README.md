@@ -101,6 +101,8 @@ npm run dev
 Luego abrí http://localhost:5173
  en tu navegador 🚀
 
+---
+
 ##🌱 Futuras mejoras
 
 -🎬 Sección de películas favoritas (guardadas en localStorage).
@@ -108,6 +110,8 @@ Luego abrí http://localhost:5173
 -🎭 Filtro por género y año de estreno.
 -🌙 Modo oscuro/claro.
 -📱 Optimización de carga para dispositivos móviles.
+
+---
 
 👨‍💻 Autor
 
