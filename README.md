@@ -98,9 +98,9 @@ npm install
 # Iniciar el entorno de desarrollo
 npm run dev
 
-Luego abrí http://localhost:5173
- en tu navegador 🚀
+
 ```
+Luego abrí http://localhost:5173 en tu navegador 🚀
 
 ---
 
@@ -114,7 +114,7 @@ Luego abrí http://localhost:5173
 
 
 
-👨‍💻 Autor
+##👨‍💻 Autor
 
 Desarrollado por Joshua SMC
 
