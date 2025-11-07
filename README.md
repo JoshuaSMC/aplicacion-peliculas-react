@@ -101,7 +101,7 @@ npm run dev
 Luego abrí http://localhost:5173
  en tu navegador 🚀
 
-#🌱 Futuras mejoras
+##🌱 Futuras mejoras
 
 -🎬 Sección de películas favoritas (guardadas en localStorage).
 -⭐ Sistema de puntuación de usuario.
